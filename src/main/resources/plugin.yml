@@ -1,0 +1,7 @@
+name: IOLoadSystem
+version: 1.0
+api-version: 1.18
+author: toto7735
+main: me.toto7735.IOLoadSystem
+commands:
+  sign:
